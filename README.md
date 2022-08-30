@@ -2,7 +2,7 @@
 
 ## Welcome to my page 👋
 
-
+<a href="https://app.daily.dev/robertob"><img src="https://api.daily.dev/devcards/bbcbacdddfb44850b7de1d32ca2da286.png?r=ls9" width="400" alt="Roberto Bressanelli's Dev Card"/></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbressanelli&show_icons=true&theme=dark)](https://github.com/rbressanelli/)
